@@ -1,2 +1,2 @@
 # Space-Invaders
-A simple classic ga,e using pygame
+A simple classic game using pygame
