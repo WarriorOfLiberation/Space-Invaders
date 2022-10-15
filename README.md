@@ -1,5 +1,5 @@
 # Space-Invaders
-A simple classic game using pygame
+A simple classic game made using python and pygame
 
 # Requirements
 Needs pygame module
